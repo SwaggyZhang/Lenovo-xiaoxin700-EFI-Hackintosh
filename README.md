@@ -20,6 +20,7 @@ Catalina 10.15.7 (19H15)
 
 * Audio
 * WiFi
+* Bluetooth
 * Ethernet
 * Intel HD Graphics (HD530)
 * TouchPad
